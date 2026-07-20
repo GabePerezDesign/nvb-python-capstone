@@ -1,6 +1,6 @@
 # nvb-python-capstone
 NVB Python Summer 2026 Capstone Project
-# Project Title
+Energy Consumption Dashboard
 
 ## What it does
 One paragraph describing what your program does and what problem it solves.
