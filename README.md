@@ -1,5 +1,6 @@
 # nvb-python-capstone
 NVB Python Summer 2026 Capstone Project
+
 Energy Consumption Dashboard
 
 ## What it does
