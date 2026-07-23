@@ -4,19 +4,25 @@ NVB Python Summer 2026 Capstone Project
 Energy Consumption Dashboard
 
 ## What it does
-One paragraph describing what your program does and what problem it solves.
+My program's purpose is to answer these two questions: Which building zone consumes the most energy and at what times of day? And is there a relationship between occupancy level and power consumption? It first takes the data set, describes it, filters it, and creates clear graphs to help you answer the two questions. 
 
 ## How to run it
 1. Open the notebook in Google Colab
-2. Upload the dataset file if required (Option A projects)
+2. Upload the dataset file: nvb_energy_consumption.csv
 3. Run all cells from top to bottom
 
 ## Skills demonstrated
-- [List the Python concepts from the course you used]
-- e.g. Pandas DataFrames, matplotlib visualization, groupby analysis
+- Pandas DataFrames
+- Matplotlib visualization
+- Groupby analysis
+- First-look methods
+- Showing output
+- For Loop
+- Finding and handling missing data
+- Filtering and Slicing
 
-## Key finding (Option A) / What it produces (Options B, C, D)
-One sentence describing the most important result or output.
+## Key finding 
+The server room consumes the most energy and there is a relationship between occupancy and power consumption.
 
 ## Author
-Your name · Your university · NVB Summer 2026
+Gabriel Perez · UC Davis · NVB Summer 2026
